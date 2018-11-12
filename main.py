@@ -47,4 +47,8 @@ def LoadImage(ImageToAnalyze):
     htmlFile.close()
 
 
-LoadImage("./tests/Cosby.png")
+if __name__ == "__main__":
+    try:
+        LoadImage(sys.argv[1])
+    except IndexError:
+        LoadImage(input("Enter image name: "))
