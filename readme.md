@@ -10,3 +10,13 @@ Made using Pillow: https://pypi.org/project/Pillow/
 Pyinstaller: https://www.pyinstaller.org/
 
 Tested on Python 3.7.
+
+
+### Synopsis
+Just a short simple aand stupid program I created because I got distracted.
+Do not recommend converting big pictures, as I am not liable for any damage caused, and they may cause crashes!
+
+![whoopsie doopsie](./example.png "Example")
+
+The example does not show the whole picture because of the fear of crashing.
+Example image used: https://pixabay.com/en/cobblestones-paving-stones-dusk-3755884/
